@@ -1,0 +1,12 @@
+{
+  "name": "node-diff-debug",
+  "version": "0.0.0",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "main": "app",
+  "dependencies": {
+    "async": "~0.9",
+    "debug": "^2.2.0"
+  }
+}
